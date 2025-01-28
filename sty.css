@@ -1,0 +1,41 @@
+* {
+    font-family: sans-serif;
+}
+
+h1,h2 {
+    color: #FFAD00;
+    font-weight: bold;
+    font-size: large;
+}
+
+body {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color:rgb(126, 29, 29);  
+}
+
+.header3 {
+    color: rgb(27, 27, 28);
+}
+
+.inputform{
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.divider {
+    background-color: white;
+    padding: 25px;
+    border-radius: 15px;
+}
+a:hover{
+    font-weight: bold;
+    color: aliceblue;
+}
+img{
+    width: 25%;
+    position: relative;
+}
